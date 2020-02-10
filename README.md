@@ -9,3 +9,11 @@ Am trying to compare the data of multiples sheets with the main sheet.
 - Visual Studio Code.
 - nodeJS.
 
+
+## Installation ##
+1. Create a folder on drive.
+2. Open the folder in the Visual Studio Code.
+3. Run Command - $ git clone https://github.com/shrutipatil09/sheetcomparison.git. It will ask for login, provide username & password.
+4. After repo is downloaded go inside folder sheetcomparison $ cd sheetcomparison.
+5. Run $ npm install, this will download all required depedencies mentioned in package.json under "node_modules" folder.
+
