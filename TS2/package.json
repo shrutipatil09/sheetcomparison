@@ -1,7 +1,7 @@
 {
-  "name": "excelcomparision",
+  "name": "sheetcomparision",
   "version": "1.0.0",
-  "description": "To compare two excels",
+  "description": "To compare multiple sheets with Business Flow sheet",
   "main": "Test.js",
   "scripts": {
     "test": "node Test.js",
@@ -12,7 +12,7 @@
     "Compare",
     "Excel"
   ],
-  "author": "Puneet",
+  "author": "Shruti",
   "license": "ISC"
   
 }
