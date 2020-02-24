@@ -57,7 +57,7 @@ function fi() {
                     }
                 }
             }
-            if(dub == 1){
+            if(dub == 1 ){
                 for(let i=0;i<arrayOfEror.length;i++){
                     console.log(arrayOfEror[i]);
                 }
